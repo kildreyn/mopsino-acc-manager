@@ -1,0 +1,1 @@
+Publish the v1.2.3 compatibility bridge for legacy 1.2.2 updaters.
